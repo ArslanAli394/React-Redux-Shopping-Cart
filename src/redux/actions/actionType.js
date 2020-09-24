@@ -1,0 +1,9 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
+export const UPDATE_CART_QUANTITY = "UPDATE_CART_QUANTITY";
+
+export const SPECIFIC_BRAND = "SPECIFIC_BRAND";
+export const ALL_BRAND = "ALL_BRAND";
+export const SEARCH_BRAND = "SEARCH_BRAND";
+
+export const SEARCH_PRODUCT = "SEARCH_PRODUCT";
